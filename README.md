@@ -17,7 +17,7 @@ Create a static website and host it on S3 bucket(private bucket) but with public
 - Documnent root object - index.html
 . Run
 
-#CONCLUSION
+# CONCLUSION
 - Copy policy and paste in S3 bucket permission (bucket policy) and save
 - Go back to cloud front and copy the DNS assigned to the CloudFront.
 - Run the domain and verify they run correctly.
